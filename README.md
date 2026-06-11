@@ -1,6 +1,6 @@
-# hand-gesture-detection
+Gesture-Based Media Controller 
 
-ontrol YouTube videos using hand gestures with OpenCV and MediaPipe.
+Control YouTube videos using hand gestures with OpenCV and MediaPipe.
  Features
  Play, pause, skip, and rewind with gestures
  Real-time hand tracking
